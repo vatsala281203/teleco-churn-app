@@ -1,0 +1,26 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,user_id,predicted_churn,churn_probability,timestamp_utc
+vatsala_01,Female,0,No,No,11,Yes,DSL,Yes,Month-to-month,Yes,Electronic check,70.0,700.03,vatsala_01,0,0.12074922770261765,2025-11-08T15:23:50.613453
+vatsala_02,Female,No,No,No,9,Yes,Fiber optic,Yes,One year,No,Bank transfer (automatic),69.89999999999995,699.9100000000001,vatsala_02,0,0.06599044054746628,2025-11-08T15:34:59.372828
+vatsala_03,Female,No,No,No,17,Yes,DSL,Yes,Two year,No,Mailed check,66.0,2000.0,vatsala_03,0,0.008520522154867649,2025-11-08T15:39:11.134578
+2025-11-08T17:32:54.651753,manual_001,Female,No,No,No,1,No,DSL,Yes,Month-to-month,No,Credit card (automatic),500.0,500.0,0,0.06627121567726135
+2025-11-08T17:51:25.531934,manual_002,Female,Yes,No,No,4,Yes,DSL,Yes,Month-to-month,No,Electronic check,500.0,5999.939999999999,0,0.12513871490955353
+2025-11-08T17:58:12.858885,manual_001,Male,No,No,No,12,Yes,DSL,Yes,Month-to-month,No,Electronic check,500.0,6000.0,0,0.10272543877363205
+2025-11-08T18:36:05.848425,manual_004,Female,No,Yes,No,12,Yes,DSL,Yes,Month-to-month,No,Electronic check,100.0,100.0,0,0.03627200052142143
+2025-11-08T18:36:16.476717,manual_004,Female,No,Yes,No,12,Yes,DSL,Yes,Month-to-month,No,Electronic check,100.0,100.0,0,0.03627200052142143
+2025-11-08T18:37:21.993795,manual_004,Female,No,Yes,No,12,Yes,DSL,Yes,Month-to-month,No,Electronic check,100.0,100.0,0,0.03627200052142143
+2025-11-08T18:38:40.505503,manual_004,Female,No,Yes,No,12,Yes,DSL,Yes,Two year,Yes,Bank transfer (automatic),200.0,200.0,0,0.043342992663383484
+2025-11-08T18:39:36.576710,manual_007,Male,Yes,No,No,12,Yes,DSL,Yes,Month-to-month,No,Electronic check,500.0,6000.0,0,0.10616064816713333
+2025-11-08T18:42:56.875540,vatsala_09,Female,No,No,No,2,Yes,No,No,Month-to-month,Yes,Electronic check,70.7,151.0,0,0.017597734928131104
+2025-11-08T18:44:14.369556,vatsala_09,Female,No,No,No,0,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.20729447901248932
+2025-11-08T18:44:34.056589,vatsala_09,Male,No,No,No,0,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.2178042083978653
+2025-11-08T18:44:41.521319,vatsala_09,Male,Yes,No,No,0,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.2536736726760864
+2025-11-08T18:44:51.920505,vatsala_09,Male,No,No,No,0,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.2178042083978653
+2025-11-08T18:45:03.433222,vatsala_09,Male,Yes,Yes,No,0,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.2648670971393585
+2025-11-08T18:45:11.103688,vatsala_09,Male,Yes,Yes,Yes,0,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.226626455783844
+2025-11-08T18:45:20.099094,vatsala_09,Male,Yes,Yes,No,0,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.2648670971393585
+2025-11-08T18:45:31.867640,vatsala_09,Male,Yes,Yes,No,10,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.10668530315160751
+2025-11-08T18:45:41.550748,vatsala_09,Male,Yes,Yes,No,0,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.2648670971393585
+2025-11-08T18:45:47.885675,vatsala_09,Male,Yes,Yes,No,0,Yes,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.12630243599414825
+2025-11-08T18:45:56.663764,vatsala_09,Male,Yes,Yes,No,0,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0,0.2648670971393585
+2025-11-08T18:46:09.195307,vatsala_09,Male,Yes,Yes,No,0,No,Fiber optic,No,Month-to-month,No,Electronic check,0.0,0.0,1,0.5608688592910767
+2025-11-10T05:32:43.906637,manual_001,Male,No,No,No,12,Yes,DSL,Yes,Month-to-month,No,Electronic check,500.0,6000.0,0,0.10272543877363205
