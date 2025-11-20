@@ -26,4 +26,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-streamlit app - https://churninsightai.streamlit.app/
+## Streamlit app - https://churninsightai.streamlit.app/
