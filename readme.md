@@ -12,6 +12,8 @@ A simple Streamlit app to predict telecom customer churn per-customer and visual
 
 > ⚠️ Do not commit large datasets or secrets to this repository.
 
+## ## Streamlit app - https://churninsightai.streamlit.app/
+
 ## Run locally
 
 1. Create Python environment (recommended)
@@ -25,5 +27,3 @@ pip install -r requirements.txt
 3. Run Streamlit
 streamlit run app.py
 
-
-## Streamlit app - https://churninsightai.streamlit.app/
