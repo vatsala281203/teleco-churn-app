@@ -10,8 +10,6 @@ A simple Streamlit app to predict telecom customer churn per-customer and visual
 - `requirements.txt` - Python dependencies
 - `Dataset/sample_data.csv` - (optional) sample/historical data for cohort visuals
 
-> ⚠️ Do not commit large datasets or secrets to this repository.
-
 ## ## Streamlit app - https://churninsightai.streamlit.app/
 
 ## Run locally
